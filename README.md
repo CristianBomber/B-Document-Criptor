@@ -1,1 +1,1 @@
-# B-Document-Criptor
+B Document Criptor è un programma in grado di crittografare i documenti con varie modalità di codifica, come ad esempio il "Codice a 10". In questa modalità, ogni lettera viene crittografata secondo il Codice a 10: ad esempio, la lettera "a" diventa "M".
